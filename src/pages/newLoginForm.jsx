@@ -67,7 +67,7 @@ export default function CenteredGrid() {
          <Link href="" onClick={(e)=>{openNewCompany()}} variant="body2">{"Yeni Şirket oluştur"}</Link>
         </Grid>
         <Grid item xs={6}>
-         <Link href="" onClick={(e)=>{openMyAccount()}} variant="body3">{"hesap"}</Link>
+         <Link href="" onClick={(e)=>{openMyAccount()}} variant="body3">{"Yardıma İhtiyacım var"}</Link>
         </Grid>
       </Grid>
       </center>

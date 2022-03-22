@@ -109,6 +109,9 @@ export default function PrimarySearchAppBar() {
   function loginForm(){
     history.push("/login")
   }
+  function MyAccount(){
+    history.push("/Myaccount")
+  }
   function openMainPage(){
     history.push("/")
   }
